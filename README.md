@@ -1,5 +1,5 @@
 # prom-decider
-Are you a nerd who can't decide whether of not to go to prom? Fear not! Let this simple Python script decide for you!
+Are you a nerd who can't decide whether or not to go to prom? Fear not! Let this simple Python script decide for you!
 
 Steps to run:
   - Install Python 3 if you do not have it already. (https://python.org)
